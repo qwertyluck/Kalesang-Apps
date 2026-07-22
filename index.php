@@ -86,9 +86,10 @@ if ($koneksi) {
                     <div class="card-body">
                         <p class="text-muted">Pilih modul di bawah ini untuk mulai mengelola administrasi keuangan Anda:</p>
                         <div class="d-flex gap-2 flex-wrap">
-                            <a href="#" class="btn btn-outline-primary">➕ Input Transaksi Baru</a>
-                            <a href="test_koneksi.php" target="_blank" class="btn btn-outline-secondary">🔍 Cek Status Tabel Database</a>
-                        </div>
+    <a href="tambah_transaksi.php" class="btn btn-primary">➕ Input Transaksi Baru</a>
+    <a href="daftar_transaksi.php" class="btn btn-success">📋 Lihat Daftar Transaksi</a>
+    <a href="test_koneksi.php" target="_blank" class="btn btn-outline-secondary">🔍 Cek Status Tabel Database</a>
+</div>
                     </div>
                 </div>
             </div>
