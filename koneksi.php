@@ -4,7 +4,7 @@ $host     = "db.tqjwefgddbkpprplysse.supabase.co";
 $port     = "5432";
 $dbname   = "postgres";
 $user     = "postgres";
-$password = "MASUKKAN_PASSWORD_SUPABASE_ANDA_DI_SINI"; // Ganti dengan password database Anda
+$password = "#Tiara*delapanbelas"; // Ganti dengan password database Anda
 
 // Membuat string koneksi untuk PostgreSQL
 $connection_string = "host={$host} port={$port} dbname={$dbname} user={$user} password={$password}";
